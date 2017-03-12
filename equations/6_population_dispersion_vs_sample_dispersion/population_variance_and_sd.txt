@@ -1,0 +1,1 @@
+Variance:\quad { \sigma  }^{ 2 }\quad =\quad \frac { \sum _{ i=1 }^{ N }{ { { (x }_{ i }-\mu ) }^{ 2 } }  }{ N } \quad \quad \quad \quad \quad \quad Standard\quad deviation:\quad \quad { \sigma  }\quad =\quad \sqrt { { \sigma  }^{ 2 } } =\quad \sqrt { \frac { \sum _{ i=1 }^{ N }{ { { (x }_{ i }-\mu ) }^{ 2 } }  }{ N }  } 

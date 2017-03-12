@@ -25,6 +25,24 @@ Population mean and sample mean are calculated in the same way. However there ar
 
 <img src="/equations/4_population_mean_vs_sample_mean/population_vs_sample_mean.png"/>
 
+# 5. Measures of dispersion
+How spread out is the data relative to its mean. There are 2 classic measures of dispersion: __variance__ and __standard deviation__.
+
+- __Variance:__ is measured the units of `x^2` (e.g `cm^2` if x is the height of women in cm).
+- __Standard deviation:__ measured in the same units as `x` (e.g `cm`).
+
+# 6. Population Dispersion vs Sample Dispersion
+## 6.1 Population Dispersion
+
+<img src="/equations/6_population_dispersion_vs_sample_dispersion/population_variance_and_sd.png"/>
+
+## 6.2 Sample Dispersion
+
+<img src="/equations/6_population_dispersion_vs_sample_dispersion/sample_variance_and_sd.png"/>
+
+- __Biased estimator:__  The expeceted value of the estimator is __not__ equal to the expected value of of the parameter being estimated.
+- __Unbiased estimator:__ The expecte values of the estimator and the parameter being estimated are the same.
+- __Unbiased estimator of a population's standard deviation:__ Unlike the mean and the variance, there is no general formula for an __unbiased estimator__ of standard deviation that works across all distribuitions. In practice, finding an unbiased estimator is of [little relevance since its need is avoided by standard procedures, such as the use of significance tests and confidence intervals, or by using Bayesian analysis.](https://en.wikipedia.org/wiki/Unbiased_estimation_of_standard_deviation)
 
 __Sample mean__
 
