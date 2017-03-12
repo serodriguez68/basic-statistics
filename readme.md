@@ -81,7 +81,9 @@ The probability of having `k` successes on `n` independent experiments, each wit
 
 <img src="/equations/8_binomial_distribution/binomial_probability.png"/>
 
-If you calculate `P` for every single `k` (from `0 to n`) and graph it, you will get a binomial distribution.
+If you calculate `P` for every single `k` (from `0 to n`) and graph it, you will get a binomial distribution. For example, for `n=6` and `p=0.5`:
+
+<img src="/equations/8_binomial_distribution/binomial_distribution_graph.png"/>
 
 
 ## 8.2 Bionomial distribution through an example
