@@ -1,0 +1,1 @@
+P(X=k)\quad =\quad \begin{pmatrix} n \\ k \end{pmatrix}\quad p^{ k }(1-p)^{ n-k }\quad =\quad \left( \frac { n! }{ k!(n-k)! }  \right) p^{ k }(1-p)^{ n-k }
