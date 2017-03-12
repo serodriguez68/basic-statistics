@@ -38,7 +38,7 @@ How spread out is the data relative to its mean. There are 2 classic measures of
 
 ## 6.2 Sample Dispersion
 
-<img src="/equations/6_population_dispersion_vs_sample_dispersion/sample_variance_and_sd.png"/>
+<img src="/equations/6_population_dispersion_vs_sample_dispersion/sample_variance_and_sd_v2.png"/>
 
 - __Biased estimator:__  The expeceted value of the estimator is __not__ equal to the expected value of of the parameter being estimated.
 - __Unbiased estimator:__ The expected values of the estimator and the parameter being estimated are the same. (If you actually knew the population's mean, you wouldn't neet to use the unbiased estimator.)
