@@ -1,1 +1,0 @@
-\mu =\quad \frac { \sum _{ i=1 }^{ N }{ { x }_{ i } }  }{ N } 

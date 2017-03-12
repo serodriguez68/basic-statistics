@@ -1,0 +1,1 @@
+Population:\quad \mu \quad =\quad \frac { \sum _{ i=1 }^{ N }{ { x }_{ i } }  }{ N } \quad \quad \quad \quad Sample:\quad \quad \overline { x } =\quad \frac { \sum _{ i=1 }^{ n }{ { x }_{ i } }  }{ n } 

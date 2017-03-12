@@ -20,6 +20,14 @@ This is better explained through an example.  Imagine you want to know the avera
 - __Sample:__ A __random__ subset of the women in the population (e.g 2000 randomly chosen women.)
     - Sample size is noted with the letter `n` (e.g `n = 2000 randomly chosen women`)
 
+# 4. Population mean vs Sample mean
+Population mean and sample mean are calculated in the same way. However there are some differences in the notation.
+
+<img src="/equations/4_population_mean_vs_sample_mean/population_vs_sample_mean.png"/>
+
+
+__Sample mean__
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;2&3&space;&&space;4&space;\\&space;5&6&7&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;2&3&space;&&space;4&space;\\&space;5&6&7&space;\end{bmatrix}" title="\begin{bmatrix} 2&3 & 4 \\ 5&6&7 \end{bmatrix}" /></a>
 
 <img src="/images/ch3_likelihood_of_change_vs_dependents.png" width="600"/>
