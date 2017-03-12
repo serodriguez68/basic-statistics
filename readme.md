@@ -44,6 +44,16 @@ How spread out is the data relative to its mean. There are 2 classic measures of
 - __Unbiased estimator:__ The expected values of the estimator and the parameter being estimated are the same. (If you actually knew the population's mean, you wouldn't neet to use the unbiased estimator.)
 - __Unbiased estimator of a population's standard deviation:__ Unlike the mean and the variance, there is no general formula for an __unbiased estimator__ of standard deviation that works across all distribuitions. In practice, finding an unbiased estimator is of [little relevance since its need is avoided by standard procedures, such as the use of significance tests and confidence intervals, or by using Bayesian analysis.](https://en.wikipedia.org/wiki/Unbiased_estimation_of_standard_deviation)
 
+# 7. Probability density functions
+- Continuous version of discrete probability distributions.
+- The probability of something happening is the area under the curve of the probability density function f(x).
+    - Ranges are used for probability density functions. (e.g `P(|X-2| < 0.1) = P(1.9<X<2.1) = integral of f(x) between 1.9 and 2.1`).
+    - This means that `P(X = Anything) = 0` as the area of a line is 0. 
+    - The whole area under the curve must be equal to 1.
+
+<img src="/equations/7_probability_density_functions/probability_density_function.gif"/>
+
+
 __Sample mean__
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;2&3&space;&&space;4&space;\\&space;5&6&7&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;2&3&space;&&space;4&space;\\&space;5&6&7&space;\end{bmatrix}" title="\begin{bmatrix} 2&3 & 4 \\ 5&6&7 \end{bmatrix}" /></a>
