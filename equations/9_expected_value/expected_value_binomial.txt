@@ -1,0 +1,1 @@
+\begin{matrix} E(X)\quad =\quad np \\ when\quad X\quad is\quad a\quad random\quad variable\quad that\quad distributes\quad Binomially \end{matrix}

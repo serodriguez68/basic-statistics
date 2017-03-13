@@ -103,6 +103,10 @@ The expected value of a random variable is equivalent to the population mean. It
 
 Take into account that sometimes the population is infinite. For example, if X is the number of heads after 6 tosses o a fair coin, you may take a sample (toss the coin 6 times) an infinite number of times. In the case where the population is infinite, calculating the population mean using [the traditional definition](#4-population-mean-vs-sample-mean) is not possible.  However we can still calculate the population mean using the relative frequencies of each occurence (i.e using the expected value).
 
+## 9.1 Expected Value of a [Binomial Distribution](#8-binomial-distribution)
+<img src="/equations/9_expected_value/expected_value_binomial.png"/>
+
+
 # Helpers (delete when done)
 <img src="/images/ch3_likelihood_of_change_vs_dependents.png" width="600"/>
 [Wrong Code Example](code_examples/chapter_2.rb#L61-L71) / [Right Code Example](code_examples/chapter_2.rb#L73-L102)
