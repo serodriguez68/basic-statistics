@@ -106,6 +106,11 @@ Take into account that sometimes the population is infinite. For example, if X i
 ## 9.1 Expected Value of a [Binomial Distribution](#8-binomial-distribution)
 <img src="/equations/9_expected_value/expected_value_binomial.png"/>
 
+______________________________
+The last lesson you watched was lesson number 14.
+https://www.youtube.com/watch?v=SqcxYnNlI3Y&list=PL1328115D3D8A2566&index=14
+______________________________
+
 
 # Helpers (delete when done)
 <img src="/images/ch3_likelihood_of_change_vs_dependents.png" width="600"/>
