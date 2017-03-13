@@ -96,11 +96,13 @@ If we graph the probability of X being 0 to n (i.e `k = 0...n`) we get this (bin
 
 <img src="/equations/8_binomial_distribution/binomial_distribution_example.png" height="300px" />
 
+# 9. Expected Value
+The expected value of a random variable is equivalent to the population mean. It is calculated by multiplying every possible outcome with it's relative frequency (probability of appearance) and then adding all up.  Mathematically speaking the expected value of a random variable `X` is:
 
+<img src="/equations/9_expected_values/expected_value.png"/>
 
-__Sample mean__
+Take into account that sometimes the population is infinite. For example, if X is the number of heads after 6 tosses o a fair coin, you may take a sample (toss the coin 6 times) an infinite number of times. In the case where the population is infinite, calculating the population mean using [the traditional definition](#4-population-mean-vs-sample-mean) is not possible.  However we can still calculate the population mean using the relative frequencies (i.e using the expected value).
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;2&3&space;&&space;4&space;\\&space;5&6&7&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;2&3&space;&&space;4&space;\\&space;5&6&7&space;\end{bmatrix}" title="\begin{bmatrix} 2&3 & 4 \\ 5&6&7 \end{bmatrix}" /></a>
-
+# Helpers (delete when done)
 <img src="/images/ch3_likelihood_of_change_vs_dependents.png" width="600"/>
 [Wrong Code Example](code_examples/chapter_2.rb#L61-L71) / [Right Code Example](code_examples/chapter_2.rb#L73-L102)
