@@ -1,5 +1,5 @@
 # 0. What is this?
-This is summary of the basic concepts of college statistics.  The information was taken from [Khan Academy's Statistics Series](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
+This is a summary of the basic concepts of college statistics.  The information was taken from [Khan Academy's Statistics Series](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
 
 # 1. Descriptive Statistics vs Inferential Statistics
 - __Descriptive:__ finding indicative numbers that describe a dataset without having to go through all the data set.
