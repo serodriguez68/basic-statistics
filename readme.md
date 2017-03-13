@@ -63,8 +63,6 @@ How spread out is the data relative to its mean. There are 2 classic measures of
 # 8. Binomial Distribution
 The binomial distribution is the basis of the significance test in statistical hypothesis testing. That is why it is so important.
 
-- It is the discrete version of the normal distribution. As the number of trials increase (`n`), the binomial distributions starts to approximate the normal distribution.
-
 ## 8.1 Building the Binomial Distribuition.
 
 __The binomial distribution is the distribution resulting from these conditions:__
@@ -83,15 +81,21 @@ The probability of having `k` successes on `n` independent experiments, each wit
 
 If you calculate `P` for every single `k` (from `0 to n`) and graph it, you will get a binomial distribution. For example, for `n=6` and `p=0.5`:
 
-<img src="/equations/8_binomial_distribution/binomial_distribution_graph.png" height="200px" />
+<img src="/equations/8_binomial_distribution/binomial_distribution_graph.png" height="400px" />
+
+- Note: If `p=0.5` the Binomial distribution is the 'discrete version' of the normal distribution. As the number of trials increase (`n`), the binomial distributions starts to approximate the normal distribution.
 
 
-## 8.2 Bionomial distribution through an example
-Example
-X = #number of baskets I make when throwing a basketball n times.
-p = there is a 30% chance that I make a basket any shot I make
-q = there is 70% chance (1-p) that I don't make a basket on any shot I make
-n = I am going to do 6 shots (experiments)
+## 8.2 Binomial distribution through an example
+- X = #number of baskets I make when throwing a basketball n times (`n=6`in this example).
+- p = there is a 30% chance that I make a basket on any shot I make.
+- q = there is 70% chance (1-p) that I don't make a basket on any shot I make
+- n = I am going to do 6 shots (experiments)
+
+If we graph the probability of X being 0 to n (i.e `k = 0...n`) we get this (binomial) distribuition:
+
+<img src="/equations/8_binomial_distribution/binomial_distribution_example.png" height="400px" />
+
 
 
 __Sample mean__
