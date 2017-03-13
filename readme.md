@@ -81,7 +81,7 @@ The probability of having `k` successes on `n` independent experiments, each wit
 
 If you calculate `P` for every single `k` (from `0 to n`) and graph it, you will get a binomial distribution. For example, for `n=6` and `p=0.5`:
 
-<img src="/equations/8_binomial_distribution/binomial_distribution_graph.png" height="400px" />
+<img src="/equations/8_binomial_distribution/binomial_distribution_graph.png" height="300px" />
 
 - Note: If `p=0.5` the Binomial distribution is the 'discrete version' of the normal distribution. As the number of trials increase (`n`), the binomial distributions starts to approximate the normal distribution.
 
@@ -94,7 +94,7 @@ If you calculate `P` for every single `k` (from `0 to n`) and graph it, you will
 
 If we graph the probability of X being 0 to n (i.e `k = 0...n`) we get this (binomial) distribuition:
 
-<img src="/equations/8_binomial_distribution/binomial_distribution_example.png" height="400px" />
+<img src="/equations/8_binomial_distribution/binomial_distribution_example.png" height="300px" />
 
 
 
