@@ -99,7 +99,7 @@ If we graph the probability of X being 0 to n (i.e `k = 0...n`) we get this (bin
 # 9. Expected Value
 The expected value of a random variable is equivalent to the population mean. It is calculated by multiplying every possible outcome with it's relative frequency (probability of appearance) and then adding all up.  Mathematically speaking the expected value of a random variable `X` is:
 
-<img src="/equations/9_expected_values/expected_value.png"/>
+<img src="/equations/9_expected_value/expected_value.png"/>
 
 Take into account that sometimes the population is infinite. For example, if X is the number of heads after 6 tosses o a fair coin, you may take a sample (toss the coin 6 times) an infinite number of times. In the case where the population is infinite, calculating the population mean using [the traditional definition](#4-population-mean-vs-sample-mean) is not possible.  However we can still calculate the population mean using the relative frequencies (i.e using the expected value).
 
